@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankita</h1>
+<h1 align="center">Hi 👋, I'm Light Yagami aka KIRA</h1>
 <h3 align="center">A passionate Cloud Security Engineer and Cybersecurity Engineer from India</h3>
 
 - ⚡ Fun fact **The less i know is Better.**
